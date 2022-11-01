@@ -63,8 +63,9 @@ console.log(typeof cc)
 let info1 = prompt('Enter your name:');
 let info2 = prompt('Enter your middle name:');
 let info3 = prompt('Enter your last name:');
+let info4 = +prompt('Enter your age:');
 
-console.log(info1, info2, info3);
+console.log(info1, info2, info3, info4);
 
 //
 
