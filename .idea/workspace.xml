@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="add default">
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="final edit">
+      <change afterPath="$PROJECT_DIR$/additional/demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/demo1/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
     </list>
@@ -66,7 +68,9 @@
       <workItem from="1667578787184" duration="3358000" />
       <workItem from="1667768894113" duration="595000" />
       <workItem from="1667849871172" duration="11758000" />
-      <workItem from="1667912421406" duration="6250000" />
+      <workItem from="1667912421406" duration="6776000" />
+      <workItem from="1667924292965" duration="620000" />
+      <workItem from="1667945173886" duration="2644000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -124,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667917918519</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final edit">
+      <created>1667919283571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919283571</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +162,7 @@
     <MESSAGE value="red" />
     <MESSAGE value="A" />
     <MESSAGE value="add default" />
-    <option name="LAST_COMMIT_MESSAGE" value="add default" />
+    <MESSAGE value="final edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final edit" />
   </component>
 </project>
