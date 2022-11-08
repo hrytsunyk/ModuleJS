@@ -1,27 +1,17 @@
 // - Є змінна х, якій ви надаєте довільне числове значення.
 //     Якщо змінна x не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
 
-// let x = 145;
-// if (x !== 0) {
-//     console.log(true);
-// } else {
-//     console.log(false)
-//
-// }
-// let a = x;
-// console.log(a >= 1);
-// console.log(a === 0);
-// console.log(a === -3);let x = 145;
-// if (x !== 0) {
-//     console.log(true);
-// } else {
-//     console.log(false)
-//
-// }
-// let a = x;
-// console.log(a >= 1);
-// console.log(a === 0);
-// console.log(a === -3);
+let x = 145;
+if (x !== 0) {
+    console.log(true);
+} else {
+    console.log(false)
+
+}
+let a = x;
+console.log(a >= 1);
+console.log(a === 0);
+console.log(a === -3);
 
 
 // - Дано змінну time яка рівна числу від 0 до 59. Потрібно написати код, який перевірить, до якої четверті години попадає число
