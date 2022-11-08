@@ -1,17 +1,17 @@
 // - Є змінна х, якій ви надаєте довільне числове значення.
 //     Якщо змінна x не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
 
-let x = 145;
-if (x !== 0) {
-    console.log(true);
-} else {
-    console.log(false)
-
-}
-let a = x;
-console.log(a >= 1);
-console.log(a === 0);
-console.log(a === -3);
+// let x = 145;
+// if (x !== 0) {
+//     console.log(true);
+// } else {
+//     console.log(false)
+//
+// }
+// let a = x;
+// console.log(a >= 1);
+// console.log(a === 0);
+// console.log(a === -3);
 
 
 // - Дано змінну time яка рівна числу від 0 до 59. Потрібно написати код, який перевірить, до якої четверті години попадає число
@@ -49,31 +49,32 @@ console.log(a === -3);
 //
 // - Скласти розклад на тиждень за домопоги switch. Користувач вводить порядковий номер дня тижня і на екрані відображається інфа що заплановано на цей день (можна замість плану на день, назву дня англійською).
 
-// let schedule = +prompt('Уведи порядковий номер дня тижня');
-//
-//  switch (schedule) {
-//      case (1):
-//          document.write('Sunday');
-//          break;
-//      case (2):
-//          document.write('Monday');
-//          break;
-//      case (3):
-//          document.write('Tuesday');
-//          break;
-//      case (4):
-//          document.write('Wednesday');
-//          break;
-//      case (5):
-//          document.write('Thursday');
-//          break;
-//      case (6):
-//          document.write('Friday');
-//          break;
-//      case (7):
-//          document.write('Saturday');
-//          break;
-//  };
+let schedule = +prompt('Уведи порядковий номер дня тижня');
+
+ switch (schedule) {
+     case (1):
+         document.write('Sunday');
+         break;
+     case (2):
+         document.write('Monday');
+         break;
+     case (3):
+         document.write('Tuesday');
+         break;
+     case (4):
+         document.write('Wednesday');
+         break;
+     case (5):
+         document.write('Thursday');
+         break;
+     case (6):
+         document.write('Friday');
+         break;
+     case (7):
+         document.write('Saturday');
+         break;
+     default: document.write("????")
+ };
 
 //
 //     - Користувач вводить або має два числа.
