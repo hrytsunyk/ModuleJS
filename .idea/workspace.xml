@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="red">
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="add default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
       <workItem from="1667578787184" duration="3358000" />
       <workItem from="1667768894113" duration="595000" />
       <workItem from="1667849871172" duration="11758000" />
-      <workItem from="1667912421406" duration="4894000" />
+      <workItem from="1667912421406" duration="6250000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667917641658</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add default">
+      <created>1667917918519</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667917918519</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,8 @@
     <MESSAGE value="left 2 tasks" />
     <MESSAGE value="final task" />
     <MESSAGE value="red" />
-    <option name="LAST_COMMIT_MESSAGE" value="red" />
+    <MESSAGE value="A" />
+    <MESSAGE value="add default" />
+    <option name="LAST_COMMIT_MESSAGE" value="add default" />
   </component>
 </project>
