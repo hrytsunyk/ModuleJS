@@ -90,9 +90,38 @@
 //         Потрібно знайти та вивести максимальне число з тих двох .
 //         Також потрібно врахувати коли введені рівні числа.
 
-let user = "number";
+// let userMsg1 = +prompt('Enter random number!');
+// let userMsg2 = +prompt('Enter nrandom number again!');
+//
+// if (userMsg1 > userMsg2) {
+//     console.log(userMsg1);
+// } else if (userMsg2 > userMsg1) {
+//     console.log(userMsg2)
+// };
+//
 
 
 //
 //     - є змінна х, яка може прийняти будь-яке значення (стрінг, число, undefined, null  і тд включно). Напишіть код який,
 //         за допомоги  оператора || буде присвоювати змінній х значення "default"  якщо значення змінної х являється falsy (хибноподыбне, тобто кастується до false)
+
+
+// let x = prompt() ||'default';
+// console.log(x);
+//
+// let x1 = '' ||'default';
+// console.log(x1);
+//
+// let x2 = 0 ||'default';
+// console.log(x2);
+//
+// let x3 = null ||'default';
+// console.log(x3);
+//
+// let x4 = undefined ||'default';
+// console.log(x4);
+//
+// let x5 = false ||'default';
+// console.log(x5);
+
+
