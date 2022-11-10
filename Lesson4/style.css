@@ -1,0 +1,33 @@
+.father {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    background: transparent;
+
+}
+div {
+    background: silver;
+    text-align: center;
+    margin: 10px;
+}
+
+h1 {
+    background: silver;
+    text-align: center;
+}
+
+
+
+.product-card {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+
+.product-image {
+    width: 180px;
+}
