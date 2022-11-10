@@ -99,7 +99,7 @@ for (let z = 0; z < products.length; z++) {
     const product = products[z];
     document.write(`
 <div class="product-card"> <h3 class="product-title">${product.title} - ${product.price}</h3>
-    <img src="${product.image}" alt="" class="product-image">
+    <img src="${product.image}" alt="Product name" class="product-image">
  </div>`);
 
 };

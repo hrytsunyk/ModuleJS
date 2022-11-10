@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="done 1">
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="done 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/main.js" afterDir="false" />
     </list>
@@ -71,7 +71,7 @@
       <workItem from="1667924292965" duration="620000" />
       <workItem from="1667945173886" duration="2675000" />
       <workItem from="1667983724764" duration="13752000" />
-      <workItem from="1668067302116" duration="16749000" />
+      <workItem from="1668067302116" duration="16964000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668089695453</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="done 2">
+      <created>1668090417030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668090417037</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="first task" />
     <MESSAGE value="done" />
     <MESSAGE value="done 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="done 1" />
+    <MESSAGE value="done 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 2" />
   </component>
 </project>
