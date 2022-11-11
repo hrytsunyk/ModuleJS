@@ -15,11 +15,15 @@
 // - Маємо 3 числа і між ним  нам потрібно знайти те що посередині.
 //     Знайти, яке з них є середнім (більше одного, але менше за інше). Перевірити, чи знаходиться перше число між двома іншими.
 
-let arr = [12, 22, 34];
-
-if ([0] < [1] && [1] < [34]) {
-    console.log(arr [1])
-}
+// let a = 15;
+// let b = 33;
+// let c =55;
+//
+// if ( a < b && b < c) {
+//     console.log(b)
+// } else {
+//     console.log('error')
+// };
 
 
 //
@@ -31,10 +35,10 @@ if ([0] < [1] && [1] < [34]) {
 // } else {
 //     result = 'Багато';
 // }
-//
+
 // let a = 3;
-// let b = 0 ;
-// let result = (a + b < 4) ? 'правда' : 'не правда';
+// let b = 8 ;
+// let result = (a + b < 4) ? 'мало' : 'багато';
 // console.log(result);
 
 //
@@ -42,16 +46,28 @@ if ([0] < [1] && [1] < [34]) {
 // напишіть це тернарним оператором
 //
 
-// let a = 2;
-//
-// let result = (a > -100 && a < 0) ? console.log('negative') :
+// let a = 45;
+// //
+// let result = (a >= -100 && a < 0) ? console.log('negative') :
 //     (a > 0 && a < 100) ? console.log('positive') : (a === 0) ? console.log('zero') : console.log('error');
 
+// let a = 6;
+//
+// let result = (a >= -100 && a < 0) ? console.log('negative') : (a <= 100 && a > 0) ? console.log('positive') :
+//     (a === 0) ? console.log('zero') : console.log('error') ;
+//
 
 // - Використовуючи конструкцію if..else, напишіть код, який запитуватиме: „Яка «офіційна» назва JavaScript?“
 // Якщо користувач вводить «ECMAScript», то показати: «Правильно!», інакше – відобразити: «Не знаєте? ECMAScript!
 //
+
+// let awr = prompt('Яка «офіційна» назва JavaScript?');
 //
+// if (awr === 'ECMAScript' ) {
+//     console.log('Right!')
+// } else {
+//     console.log('Не знаєте? ECMAScript')
+// };
 
 //
 //
