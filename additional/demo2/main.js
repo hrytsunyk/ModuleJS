@@ -48,12 +48,12 @@
 // }
 // 7. замінити кожне число кратне 3 на слово "okten"
 // let arr =  [2,17,13,6,22,31,45,66,100,-18];
-//
-//
+// //
+// //
 // for (let i = 0; i < arr.length; i++) {
 //     if (arr [i] % 3===0) {
 //         arr[i] = 'okten';
-//     };
+//     }
 // };
 // console.log(arr)
 // 8. вивести масив в зворотньому порядку.
@@ -178,19 +178,18 @@
 // };
 //
 // стоврити масив книжок (назва, кількість сторінок, автори , жанри).
-
-let books = [
-    {name: 'namebook1', pageCount: 55, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'namebook2', pageCount: 355, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'namebook3', pageCount: 555, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'namebook4', pageCount: 655, authors: ['fdadfa sggdhfhd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'namebook5', pageCount: 755, authors: ['fdadfa sgfghggd', 'fdafa sgsgd', 'fdafa sgghgffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd','fdsgsgsd','fdsgsgsd']},
-    {name: 'nnnamebosdfsdafok6', pageCount: 655, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsghgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'namebook7', pageCount: 366, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffgfhd'], genres: ['fdsgsgsghd', 'fdsgsgsd', 'fdsgsgsd']},
-    {name: 'nameboodsasdk8', pageCount: 334, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffdfghd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgfhgsd']},
-    {name: 'namebookkkk9', pageCount: 233, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsggsd', 'fdggsgsgsd', 'fdsgsgsfhd']},
-]
-// -знайти наібльшу книжку.
+//
+// let books = [
+//     {name: 'namebook1', pageCount: 55, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'namebook2', pageCount: 355, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'namebook3', pageCount: 555, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'namebook4', pageCount: 655, authors: ['fdadfa sggdhfhd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'namebook5', pageCount: 755, authors: ['fdadfa sgfghggd', 'fdafa sgsgd', 'fdafa sgghgffd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd','fdsgsgsd','fdsgsgsd']},
+//     {name: 'nnnamebosdfsdafok6', pageCount: 655, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsghgsd', 'fdsgsgsd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'namebook7', pageCount: 366, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffgfhd'], genres: ['fdsgsgsghd', 'fdsgsgsd', 'fdsgsgsd']},
+//     {name: 'nameboodsasdk8', pageCount: 334, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffdfghd'], genres: ['fdsgsgsd', 'fdsgsgsd', 'fdsgsgfhgsd']},
+//     {name: 'namebookkkk9', pageCount: 233, authors: ['fdadfa sggd', 'fdafa sgsgd', 'fdafa sggffd'], genres: ['fdsgsggsd', 'fdggsgsgsd', 'fdsgsgsfhd']},
+// ]
 // let count = books [0];
 // for (const book of books) {
 //     if (book.pageCount > count.pageCount ) {

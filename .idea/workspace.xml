@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="done 3">
-      <change afterPath="$PROJECT_DIR$/additional/demo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/demo2/main.js" afterDir="false" />
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="ddone">
+      <change afterPath="$PROJECT_DIR$/Lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/Demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/Demo/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/Demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/Demo3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/Demo3/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/demo2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\ModuleJS\Lesson5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +84,14 @@
       <workItem from="1667945173886" duration="2675000" />
       <workItem from="1667983724764" duration="13752000" />
       <workItem from="1668067302116" duration="17604000" />
-      <workItem from="1668156383163" duration="19185000" />
+      <workItem from="1668156383163" duration="19441000" />
+      <workItem from="1668242338435" duration="290000" />
+      <workItem from="1668242907853" duration="1898000" />
+      <workItem from="1668268104808" duration="3701000" />
+      <workItem from="1668280123236" duration="6290000" />
+      <workItem from="1668356409205" duration="8752000" />
+      <workItem from="1668376653290" duration="3056000" />
+      <workItem from="1668416239865" duration="16842000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -174,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668090660874</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ddone">
+      <created>1668208287436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668208287436</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +230,7 @@
     <MESSAGE value="done 1" />
     <MESSAGE value="done 2" />
     <MESSAGE value="done 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="done 3" />
+    <MESSAGE value="ddone" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddone" />
   </component>
 </project>
