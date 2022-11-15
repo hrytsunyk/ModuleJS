@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="ddone">
-      <change afterPath="$PROJECT_DIR$/Lesson5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/Demo/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/Demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/Demo3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/Demo3/style.css" afterDir="false" />
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="1/2 of work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional/demo2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +84,8 @@
       <workItem from="1668280123236" duration="6290000" />
       <workItem from="1668356409205" duration="8752000" />
       <workItem from="1668376653290" duration="3056000" />
-      <workItem from="1668416239865" duration="16842000" />
+      <workItem from="1668416239865" duration="17565000" />
+      <workItem from="1668499835266" duration="17964000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -198,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668208287436</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1/2 of work">
+      <created>1668462279184</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668462279184</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +232,7 @@
     <MESSAGE value="done 2" />
     <MESSAGE value="done 3" />
     <MESSAGE value="ddone" />
-    <option name="LAST_COMMIT_MESSAGE" value="ddone" />
+    <MESSAGE value="1/2 of work" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/2 of work" />
   </component>
 </project>

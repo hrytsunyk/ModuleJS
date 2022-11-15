@@ -46,21 +46,130 @@
 
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
 
-
-
+// function text(paragraph) {
+//     document.write(
+//         `
+//  <p>${paragraph}</p>
+//
+// `
+//     );
+//
+// };
+// text('SOME TEXT INSIDE');
 
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
-// - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий. Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
+
+// function text(li) {
+//     document.write(
+//         `
+//         <ul>
+//         <li>${li}</li>
+//         <li>${li}</li>
+//         <li>${li}</li>
+// </ul>
+// `);
+//
+// };
+// text('SOME TEXT INSIDE');
+
+
+// - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий.
+// Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
+//
+// function text(li, numb) {
+//     for (let i = 0; i < numb; i++) {
+//
+//         document.write(` <ul>`)
+//
+//         document.write(`<li>${li}</li>`);
+//
+//         document.write(`</ul>`);
+//
+//     }
+//
+// };
+//
+// text('SOME TEXT INSIDE', 3);
+
+
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
+
+
+
+// let list = [12, 'hello', true, false, 'OKTEN', 314];
+//
+// function listArray (arr) {
+//
+//     for (const item of arr) {
+//
+//         document.write(` <ul>`)
+//
+//         document.write(`<li>${item}</li>`);
+//
+//         document.write(`</ul>`);
+//     }
+// };
+//     listArray(list);
+//
+
+
+
+
+
 // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
+
+// let users = [
+//     {id: 1, name: 'vasya', age: 28},
+//     {id: 2, name: 'anton', age: 30},
+//     {id: 3, name: 'alex', age: 15},
+//     {id: 4, name: 'ihor', age: 45},
+//     {id: 5, name: 'katya', age: 25}
+// ];
+//
+//
+// function user (arr) {
+//     for (const user of arr) {
+//         document.write(
+//             `<div>
+//      ${user.id}. ${user.name} - ${user.age};
+//          </div>`)
+//     }
+//
+// };
+//
+// user(users)
+//
+//
+
 // - створити функцію яка повертає найменьше число з масиву
+
+// let pum = [544,5,453,234,62,424,33,122,55];
+// let num = [54,5,43,24,6,42,33,1,55];
+//
+//
+//
+// function min (arr) {
+//     console.log("Min:", Math.min.apply(null, arr));
+// };
+//
+// min(num);
+// min(pum);
+
+
+
+
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 
+let num = [5,5,10,20,10,50];
+let num1 = [5,5,10,20,10,50,45,6,36,3,2];
+let sum= 0;
 
-// let num = [54,5,43,24,6,3,42,3,1];
-//
-// for (const number of num) {
-//     if (num [i] > number) {
-//         console.log(number)
-//     }
-// }
+function calc (arr) {
+    for (let i = 0; i < arr.length; i++) {
+    sum+= arr[i];
+    }
+    return sum;
+}
+
+calc(num);
+calc(num1);
