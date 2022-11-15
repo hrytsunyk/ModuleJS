@@ -160,16 +160,18 @@
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 
-let num = [5,5,10,20,10,50];
-let num1 = [5,5,10,20,10,50,45,6,36,3,2];
-let sum= 0;
-
-function calc (arr) {
-    for (let i = 0; i < arr.length; i++) {
-    sum+= arr[i];
-    }
-    return sum;
-}
-
-calc(num);
-calc(num1);
+// let num = [5,5,10,20,10,50];
+// let num1 = [5,5,10,20,10,50,45,6,36,3,2];
+//
+// let sum= 0;
+//
+// function calc (arr) {
+//     for (let i = 0; i < arr.length; i++) {
+//     sum+= arr[i];
+//     }
+//     return sum;
+//
+// }
+//
+// console.log(calc(num));
+// console.log(calc(num1));
