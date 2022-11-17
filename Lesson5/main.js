@@ -100,19 +100,19 @@
 //
 // function listArray (arr) {
 //
-//     for (const item of arr) {
-//
 //         document.write(` <ul>`)
+//     for (const item of arr) {
+/
 //
 //         document.write(`<li>${item}</li>`);
 //
-//         document.write(`</ul>`);
 //     }
+//         document.write(`</ul>`);
 // };
 //     listArray(list);
 //
-
-
+//
+//
 
 
 
@@ -143,26 +143,26 @@
 
 // - створити функцію яка повертає найменьше число з масиву
 
-let pum = [544,5,453,234,62,424,33,122,55];
-let num = [54,5,43,24,6,42,33,1,55];
-
-
-
-function mini (arr) {
-    let min = arr [0];
-    for (const item of arr) {
-        if (item < min) {
-            min = item;
-        }
-    }
-    return min;
-
-};
-
-console.log(mini(num));
-console.log(mini(pum));
-// min(pum);
-
+// let pum = [544,5,453,234,62,424,33,122,55];
+// let num = [54,5,43,24,6,42,33,1,55];
+//
+//
+//
+// function mini (arr) {
+//     let min = arr [0];
+//     for (const item of arr) {
+//         if (item < min) {
+//             min = item;
+//         }
+//     }
+//     return min;
+//
+// };
+//
+// console.log(mini(num));
+// console.log(mini(pum));
+// // min(pum);
+//
 
 
 
