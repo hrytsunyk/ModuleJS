@@ -112,7 +112,7 @@
 // let cardSuit = ['spade', 'diamond', 'heart', 'clubs'];
 // let value = ['6','7','8','9','10', 'ace', 'jack', 'queen', 'king'];
 // let color = ['red', 'black'];
-//
+
 // let cards = [
 //     {cardSuite: 'spade', color: 'black'},
 //     {cardSuite: 'diamond', color: 'red'},
@@ -133,9 +133,12 @@
 // }
 //
 // console.log(deck)
-//
+
+
+
+
 // let filtered = [];
-//
+// //
 // let filter1 = deck.filter((value) => value.cardSuite === 'spade' && value.value === 'ace');
 // filtered.push(filter1);
 //
