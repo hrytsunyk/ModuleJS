@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="final work">
-      <change afterPath="$PROJECT_DIR$/additional/demo6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/demo6/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="ad users">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Leson1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional/demo5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo5/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/demo6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +32,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;K:/ModuleJS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "K:/ModuleJS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;,
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="K:\ModuleJS\Lesson5" />
@@ -127,7 +119,7 @@
       <workItem from="1670063592632" duration="333000" />
       <workItem from="1670101731470" duration="8850000" />
       <workItem from="1670230292639" duration="4312000" />
-      <workItem from="1670272060713" duration="2996000" />
+      <workItem from="1670272060713" duration="7694000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -283,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669676824618</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ad users">
+      <created>1670275098257</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670275098257</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +319,7 @@
     <MESSAGE value="done" />
     <MESSAGE value="final" />
     <MESSAGE value="final work" />
-    <option name="LAST_COMMIT_MESSAGE" value="final work" />
+    <MESSAGE value="ad users" />
+    <option name="LAST_COMMIT_MESSAGE" value="ad users" />
   </component>
 </project>
