@@ -77,6 +77,41 @@ console.log(sortClients);
 //
 // - Створити функцію конструктор яка дозволяє створювати об'єкти car, з властивостями модель, виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
 
+function Car (car, model, manufactured, year, maxSpeed, engineCapacity, name) {
+    this.car = car;
+    this.model = model;
+    this.manufactured = manufactured;
+    this.year = year;
+    this.maxSpeed = maxSpeed;
+    this.engineCapacity = engineCapacity;
+    // this.name = name;
+    this.drive = () => `Їдемо зі швидкістю ${this.maxSpeed}км/годину!`
+    this.info = () => console.log(this)
+this.increaseMaxSpeed = (newSpeed) => this.maxSpeed = newSpeed;
+    this.changeYear =  (newValue) => this.year = newValue;
+    this.addDriver = (driver) => this.name = driver;
+}
+
+let car11 = new Car('Mitsubishi', 'Colt', 'Japan', 2006, 120, 1.3,);
+let car12 = new Car('Mitsubishi', 'Pajero', 'Japan', 2020, 280, 2.5,);
+let car13 = new Car('Volkswagen', 'Tuareg', 'Germany', 2021, 270, 3);
+let car14 = new Car('Volkswagen', 'Caddy', 'Germany', 2009, 150, 1.9);
+let car15 = new Car('Ford', 'Fusion', 'USA', 2022, 200, 2);
+let car16 = new Car('Ford', 'EDGE', 'USA', 2019, 275, 2.5);
+let car17 = new Car('Ford', 'Mustang', 'USA', 2017, 340, 3.5);
+let car18 = new Car('Fiat', '500', 'Italy', 2008, 150, 1.8);
+let car19 = new Car('Fiat', 'Scudo', 'Italy', 2009, 130, 2.5);
+let car20 = new Car('Toyota', 'Camry', 'Japan', 2020, 280, 2.8);
+
+
+console.log(car11.drive());
+car15.info()
+let newSpeed = car15.increaseMaxSpeed(33);
+console.log(car15)
+car15.changeYear(2000);
+console.log(car15)
+car15.addDriver('Vasya');
+console.log(car15)
 
 
 // -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`
@@ -93,9 +128,6 @@ console.log(sortClients);
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
-//
-//
-//
 class SalonCars {
     constructor(car, model, manufactured, year, maxSpeed, engineCapacity, name) {
         this.car = car;

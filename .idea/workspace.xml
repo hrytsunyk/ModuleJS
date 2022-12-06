@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="add fn">
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="cinderella">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional/demo6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo6/main.js" afterDir="false" />
     </list>
@@ -119,7 +119,7 @@
       <workItem from="1670063592632" duration="333000" />
       <workItem from="1670101731470" duration="8850000" />
       <workItem from="1670230292639" duration="4312000" />
-      <workItem from="1670272060713" duration="15912000" />
+      <workItem from="1670272060713" duration="17163000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -289,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670279936552</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="cinderella">
+      <created>1670288116225</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670288116225</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +335,7 @@
     <MESSAGE value="final work" />
     <MESSAGE value="ad users" />
     <MESSAGE value="add fn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fn" />
+    <MESSAGE value="cinderella" />
+    <option name="LAST_COMMIT_MESSAGE" value="cinderella" />
   </component>
 </project>
