@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="cinderella">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e28f2d49-0363-463d-add6-bdc41f50d225" name="Changes" comment="final">
+      <change afterPath="$PROJECT_DIR$/Lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional/demo6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/demo6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "K:/ModuleJS",
+    "last_opened_file_path": "K:/ModuleJS/Lesson8",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "copyright"
   },
@@ -50,6 +51,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\ModuleJS\Lesson8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="K:\ModuleJS\Lesson5" />
     </key>
@@ -119,7 +123,7 @@
       <workItem from="1670063592632" duration="333000" />
       <workItem from="1670101731470" duration="8850000" />
       <workItem from="1670230292639" duration="4312000" />
-      <workItem from="1670272060713" duration="17163000" />
+      <workItem from="1670272060713" duration="17389000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667302037395</created>
@@ -296,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670288116225</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="final">
+      <created>1670289414791</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670289414791</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,11 +342,11 @@
     <MESSAGE value="1/2 of work" />
     <MESSAGE value="1/9 of work" />
     <MESSAGE value="done" />
-    <MESSAGE value="final" />
     <MESSAGE value="final work" />
     <MESSAGE value="ad users" />
     <MESSAGE value="add fn" />
     <MESSAGE value="cinderella" />
-    <option name="LAST_COMMIT_MESSAGE" value="cinderella" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
