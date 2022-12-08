@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+.father {
+    /*width: 1000px;*/
+    /*height: 600px;*/
+    /*!*background: silver;*!*/
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.course {
+    margin: 10px;
+    border: 1px solid black;
+    width: 800px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+h2 {
+    width: 100%;
+    height: 50px;
+
+    background: cornflowerblue;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+
+}
+.right, .left{
+    background: cornflowerblue;
+    padding: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.right {
+    width: 500px;
+    height: 40px;
+}
+
+.left {
+    width: 240px;
+    height: 40px;
+
+}
